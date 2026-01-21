@@ -1,45 +1,31 @@
 📝 Task Manager — React + Vite
 
 Aplicação web de gerenciamento de tarefas desenvolvida com React e JavaScript, utilizando Vite para um ambiente de desenvolvimento rápido e moderno.
-
 O projeto permite criar, listar, concluir e remover tarefas, com atualização dinâmica da interface baseada no estado da aplicação.
 
 🚀 Funcionalidades
 
 Adicionar novas tarefas
-
 Listar tarefas dinamicamente
-
 Marcar tarefas como concluídas
-
 Remover tarefas
-
 Interface simples e responsiva
 
 🛠️ Tecnologias Utilizadas
 
 React
-
 JavaScript (ES6+)
-
 Vite
-
 HTML5
-
 CSS3
 
 🧠 Conceitos Praticados
 
 Lógica de programação
-
 Manipulação de arrays (map, filter)
-
 Gerenciamento de estado com React (useState)
-
 Componentização
-
 Passagem de props
-
 Renderização condicional
 
 ▶️ Como executar o projeto
